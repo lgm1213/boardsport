@@ -77,5 +77,5 @@ while !levels.include? user_input3
 end
 
 puts prompt3
-
+puts "You Win!!!!"
 trial_mode
